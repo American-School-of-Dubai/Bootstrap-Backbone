@@ -1,4 +1,4 @@
-# Bootstrap-Boilerplate
+# Bootstrap-Backbone
 A simple Bootstrap boilerplate with all files and resources already imported and organised into folders for easier development. 
 
 The Premade Project File Contains the Following:
