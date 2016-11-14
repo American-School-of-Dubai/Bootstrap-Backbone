@@ -1,5 +1,5 @@
 # Bootstrap-Backbone
-A simple Pre-made Project Folder with all files and resources already imported and organised into folders for easier development. 
+A simple pre-made project folder with all files and resources already imported and organised into folders for easier development. 
 
 The Premade Project Folder Contains the Following:
   - Latest Stable Release of Bootstrap.css
