@@ -1,7 +1,7 @@
 # Bootstrap-Backbone
-A simple Bootstrap boilerplate with all files and resources already imported and organised into folders for easier development. 
+A simple Pre-made Project Folder with all files and resources already imported and organised into folders for easier development. 
 
-The Premade Project File Contains the Following:
+The Premade Project Folder Contains the Following:
   - Latest Stable Release of Bootstrap.css
   - Latest Stable Release of Bootstrap.js
   - Latest Stable Release of Jquery.js
